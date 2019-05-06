@@ -13,6 +13,6 @@ First you need freeglut libraries, otherwise you cannot run OpenGL program that 
 
 Microsoft SDK provides gl & glu libraries but don't glut, so you must add it externally to your project.
 
-Downlaod from here : https://www.transmissionzero.co.uk/files/software/development/GLUT/freeglut-MSVC.zip
+Downlaod from here : https://www.transmissionzero.co.uk/files/software/development/GLUT/freeglut-MSVC-3.0.0-2.mp.zip
 
 And then follow this video : https://youtu.be/8p76pJsUP44
