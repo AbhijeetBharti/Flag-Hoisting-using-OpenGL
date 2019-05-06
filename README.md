@@ -11,7 +11,7 @@ There is s/S key which initiate the  program animation. As s/S is pressed the pe
 
 First you need freeglut libraries, otherwise you cannot run OpenGL program that contain glut functions.
 
-Microsoft SDK provides gl & glu libraries but don't glut, so you must add it externally to your project.
+Microsoft SDK provides gl & glu libraries but not glut, so you must add it externally to your project.
 
 So copy and paste this URL in search box : https://www.transmissionzero.co.uk/files/software/development/GLUT/freeglut-MSVC-3.0.0-2.mp.zip
 
