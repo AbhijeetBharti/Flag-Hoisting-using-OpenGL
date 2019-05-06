@@ -7,7 +7,7 @@ The person approaches the flagpost and host the flag, which is shown with a good
 
 There is s/S key which initiate the  program animation. As s/S is pressed the person in front start moving to host the flag. To exit, just press esc key.
 
-# Set OpenGl environment in Visual Studio
+# Set OpenGL environment in Visual Studio
 
 First you need freeglut libraries, otherwise you cannot run OpenGL program that contain glut functions.
 
